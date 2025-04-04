@@ -71,7 +71,7 @@ const Header = () => {
                   <>
                     <button
                       onClick={() => toggleDropdown(i)}
-                      className="flex items-center gap-2"
+                      className="flex cursor-pointer transition-all ease-linear duration-300 hover:text-gray-950 items-center gap-2"
                     >
                       {obj.name}
                       <span
