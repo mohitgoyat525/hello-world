@@ -57,6 +57,10 @@ export const HEADER_LIST = [
       },
     ],
   },
+  {
+    name: "Contact Us",
+    link: "/contact-us",
+  }
 ];
 
 export const HERO_LIST = [
